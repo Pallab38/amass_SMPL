@@ -1,0 +1,120 @@
+../Data/bodyData\BMLhandball\S01_Expert\Trial_upper_left_012_poses.npz
+../Data/bodyData\BMLhandball\S01_Expert\Trial_upper_left_right_118_poses.npz
+../Data/bodyData\BMLhandball\S01_Expert\Trial_upper_left_082_poses.npz
+../Data/bodyData\BMLhandball\S01_Expert\Trial_upper_left_225_poses.npz
+../Data/bodyData\BMLhandball\S01_Expert\Trial_upper_right_left_084_poses.npz
+../Data/bodyData\BMLhandball\S01_Expert\Trial_upper_left_right_003_poses.npz
+../Data/bodyData\BMLhandball\S02_Novice\Trial_upper_right_left_015_poses.npz
+../Data/bodyData\BMLhandball\S02_Novice\Trial_upper_left_061_poses.npz
+../Data/bodyData\BMLhandball\S02_Novice\Trial_upper_left_187_poses.npz
+../Data/bodyData\BMLhandball\S02_Novice\Trial_upper_right_238_poses.npz
+../Data/bodyData\BMLhandball\S02_Novice\Trial_upper_left_049_poses.npz
+../Data/bodyData\BMLhandball\S02_Novice\Trial_upper_right_238_poses.npz
+../Data/bodyData\BMLhandball\S03_Expert\Trial_upper_right_left_195_poses.npz
+../Data/bodyData\BMLhandball\S03_Expert\Trial_upper_right_left_139_poses.npz
+../Data/bodyData\BMLhandball\S03_Expert\Trial_upper_right_034_poses.npz
+../Data/bodyData\BMLhandball\S03_Expert\Trial_upper_right_left_110_poses.npz
+../Data/bodyData\BMLhandball\S03_Expert\Trial_upper_right_034_poses.npz
+../Data/bodyData\BMLhandball\S03_Expert\Trial_upper_right_left_110_poses.npz
+../Data/bodyData\BMLhandball\S04_Expert\Trial_upper_right_193_poses.npz
+../Data/bodyData\BMLhandball\S04_Expert\Trial_upper_left_right_123_poses.npz
+../Data/bodyData\BMLhandball\S04_Expert\Trial_upper_left_129_poses.npz
+../Data/bodyData\BMLhandball\S04_Expert\Trial_upper_right_058_poses.npz
+../Data/bodyData\BMLhandball\S04_Expert\Trial_upper_right_193_poses.npz
+../Data/bodyData\BMLhandball\S04_Expert\Trial_upper_left_061_poses.npz
+../Data/bodyData\BMLhandball\S05_Novice\Trial_upper_right_130_poses.npz
+../Data/bodyData\BMLhandball\S05_Novice\Trial_upper_right_180_poses.npz
+../Data/bodyData\BMLhandball\S05_Novice\Trial_upper_right_058_poses.npz
+../Data/bodyData\BMLhandball\S05_Novice\Trial_upper_left_right_123_poses.npz
+../Data/bodyData\BMLhandball\S05_Novice\Trial_upper_left_right_013_poses.npz
+../Data/bodyData\BMLhandball\S05_Novice\Trial_upper_left_right_234_poses.npz
+../Data/bodyData\BMLhandball\S06_Novice\Trial_upper_left_225_poses.npz
+../Data/bodyData\BMLhandball\S06_Novice\Trial_upper_left_right_144_poses.npz
+../Data/bodyData\BMLhandball\S06_Novice\Trial_upper_left_187_poses.npz
+../Data/bodyData\BMLhandball\S06_Novice\Trial_upper_right_left_195_poses.npz
+../Data/bodyData\BMLhandball\S06_Novice\Trial_upper_left_006_poses.npz
+../Data/bodyData\BMLhandball\S06_Novice\Trial_upper_left_right_007_poses.npz
+../Data/bodyData\BMLhandball\S07_Expert\Trial_upper_right_left_196_poses.npz
+../Data/bodyData\BMLhandball\S07_Expert\Trial_upper_right_left_084_poses.npz
+../Data/bodyData\BMLhandball\S07_Expert\Trial_upper_left_right_154_poses.npz
+../Data/bodyData\BMLhandball\S07_Expert\Trial_upper_left_033_poses.npz
+../Data/bodyData\BMLhandball\S07_Expert\Trial_upper_left_049_poses.npz
+../Data/bodyData\BMLhandball\S07_Expert\Trial_upper_right_130_poses.npz
+../Data/bodyData\BMLhandball\S08_Novice\Trial_upper_right_left_176_poses.npz
+../Data/bodyData\BMLhandball\S08_Novice\Trial_upper_right_left_116_poses.npz
+../Data/bodyData\BMLhandball\S08_Novice\Trial_upper_right_left_088_poses.npz
+../Data/bodyData\BMLhandball\S08_Novice\Trial_upper_left_069_poses.npz
+../Data/bodyData\BMLhandball\S08_Novice\Trial_upper_right_175_poses.npz
+../Data/bodyData\BMLhandball\S08_Novice\Trial_upper_left_right_193_poses.npz
+../Data/bodyData\BMLhandball\S09_Novice\Trial_upper_left_right_161_poses.npz
+../Data/bodyData\BMLhandball\S09_Novice\Trial_upper_left_right_083_poses.npz
+../Data/bodyData\BMLhandball\S09_Novice\Trial_upper_left_200_poses.npz
+../Data/bodyData\BMLhandball\S09_Novice\Trial_upper_right_left_234_poses.npz
+../Data/bodyData\BMLhandball\S09_Novice\Trial_upper_left_103_poses.npz
+../Data/bodyData\BMLhandball\S09_Novice\Trial_upper_left_right_226_poses.npz
+../Data/bodyData\BMLhandball\S10_Expert\Trial_upper_left_right_093_poses.npz
+../Data/bodyData\BMLhandball\S10_Expert\Trial_upper_right_178_poses.npz
+../Data/bodyData\BMLhandball\S10_Expert\Trial_upper_right_197_poses.npz
+../Data/bodyData\BMLhandball\S10_Expert\Trial_upper_left_219_poses.npz
+../Data/bodyData\BMLhandball\S10_Expert\Trial_upper_left_115_poses.npz
+../Data/bodyData\BMLhandball\S10_Expert\Trial_upper_right_left_070_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\aita\walk-05-backward-aita_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\aita\walk-09-handbag-aita_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\aita\gesture_etc-45-feel dizzy -aita_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\aita\walk-04-fast-aita_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\aita\throw_toss-03-under-aita_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\aita\gesture_etc-18-eat-aita_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\hamada\gesture_etc-03-set 3-hamada_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\hamada\gesture_etc-09-scratch-hamada_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\hamada\throw_toss-02-side-hamada_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\hamada\gesture_etc-35-west side-hamada_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\hamada\greeting-08-shakehands-hamada_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\hamada\throw_toss-19-pass to front light-hamada_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\ichige\gesture_etc-23-mobile call-ichige_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\ichige\gesture_etc-23-mobile call-ichige_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\ichige\walk-07-moonwalk-ichige_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\ichige\soccer-31-goal-ichige_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\ichige\pose-12-body building-ichige_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\ichige\gesture_etc-35-west side-ichige_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kaiwa\gesture_etc-49-taiko under-kaiwa_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kaiwa\gesture_etc-42-hung over-kaiwa_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kaiwa\throw_toss-12-dart-kaiwa_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kaiwa\accident-02-dodge fast-kaiwa_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kaiwa\greeting-07-bow-kaiwa_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kaiwa\gesture_etc-09-scratch-kaiwa_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kanno\gesture_etc-36-shame-kanno_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kanno\jump-08-rope backward-kanno_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kanno\walk-13-baggage on the shoulder-kanno_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kanno\walk-19-shuffle backward-kanno_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kanno\walk-01-normal-kanno_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kanno\jump-12-boxer step-kanno_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kawaguchi\turn-01-call-kawaguchi_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kawaguchi\turn-02-look around-kawaguchi_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kawaguchi\pose-02-rest-kawaguchi_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kawaguchi\sitdown_standup-01-impolite-kawaguchi_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kawaguchi\throw_toss-04-both hands over light-kawaguchi_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kawaguchi\pose-08-pray buddhismintone-kawaguchi_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kudo\walk-18-shuffle forward-kudo_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kudo\greeting-10-card exchange-kudo_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kudo\walk-25-tired-kudo_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kudo\walk-07-moonwalk-kudo_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kudo\jump-11-warmup-kudo_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\kudo\walk-26-exhausted-kudo_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\shiono\gesture_etc-16-dryer-shiono_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\shiono\gesture_etc-35-west side-shiono_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\shiono\gesture_etc-25-magic-shiono_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\shiono\gesture_etc-34-peace-shiono_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\shiono\gesture_etc-24-matrix-shiono_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\shiono\jump-12-boxer step-shiono_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\takiguchi\jump-08-rope backward-takiguchi_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\takiguchi\turn-01-call-takiguchi_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\takiguchi\sitdown_standup-09-squat down-takiguchi_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\takiguchi\turn-01-call-takiguchi_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\takiguchi\accident-05-damage right arm-takiguchi_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\takiguchi\accident-02-dodge fast-takiguchi_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\yamaoka\tennis-16-second service-yamaoka_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\yamaoka\tennis-20-step and stance-yamaoka_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\yamaoka\tennis-16-second service-yamaoka_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\yamaoka\tennis-20-step and stance-yamaoka_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\yamaoka\tennis-15-first service-yamaoka_poses.npz
+../Data/bodyData\Eyes_Japan_Dataset\yamaoka\tennis-07-backhand-yamaoka_poses.npz
