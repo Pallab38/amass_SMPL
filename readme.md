@@ -29,3 +29,4 @@ mesh = pyrender.Mesh.from_trimesh(my_mesh)
 scene.add(mesh)
 pyrender.Viewer(scene, use_raymond_lighting=True)
 ```
+![myCode](smpl_read_carbonNowSh.png)
