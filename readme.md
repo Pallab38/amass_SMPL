@@ -5,8 +5,8 @@
 
 ## We need 
 a) **Vertices** (6890,3)  <br>
-b) **Joints** <br>
-c) **Pose** (24,3) <br>
+b) **Joints**  (24,3) <br>
+c) **Pose** (1,num_jointsx3=72) <br>
 ## Code
 ```
 from smplx import SMPL  ### pip install smplx
