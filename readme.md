@@ -3,7 +3,10 @@
 ## Prerequisite
 1. smplx (``` pip install smplx ```)  [Pypi project](https://pypi.org/project/smplx/)
 
-
+## We need 
+a) **Vertices** (6890,3)
+b) **Joints** 
+c) **Pose**
 ## Code
 ```
 from smplx import SMPL  ### pip install smplx
