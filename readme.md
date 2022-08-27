@@ -9,7 +9,7 @@
 2) **Pose** (1,num_jointsx3=72) ```/home/group-cvg/cvg-students/das1/zju_mocap/CoreView_313/new_params/1.npy```<br>
 🧮 We can use **smpl model** using ```pose parameters``` to get vertices and faces. <br>
 a) **Vertices** (6890,3)  ```/home/group-cvg/cvg-students/das1/zju_mocap/CoreView_313/new_vertices/1.npy``` <br>
-b) **Faces** (13776,3) <br>
+b) **Faces** (13776,3) ```/home/group-cvg/cvg-students/das1/zju_mocap/CoreView_313/faces.npy```<br>
 
 ## Code
 ```
