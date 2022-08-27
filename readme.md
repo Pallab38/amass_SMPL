@@ -8,7 +8,7 @@
 ```
 from smplx import SMPL  ### pip install smplx
 
-###  Initialize SMPL Model    ### 
-smpl = SMPL(model_path= smpl_dir,gender="MALE",batch_size=1)
+###  Load SMPL Model    ### 
+smpl = SMPL(model_path= <path to Gender.pkl file>, gender="MALE")
 
 ```
