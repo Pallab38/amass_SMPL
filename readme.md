@@ -11,8 +11,13 @@ c) **Pose** (1,num_jointsx3=72) ```/home/group-cvg/cvg-students/das1/zju_mocap/C
 ## Code
 ```
 from smplx import SMPL  ### pip install smplx
-
+import trimesh
+import pyrender
 ###  Load SMPL Model    ### 
 smpl = SMPL(model_path= <path to Gender.pkl file>, gender="MALE")
-
+my_mesh = trimesh.Trimesh(vertices, faces, vertex_colors)
+scene = pyrender.Scene()
+mesh = pyrender.Mesh.from_trimesh(my_mesh)
+scene.add(mesh)
+pyrender.Viewer(scene, use_raymond_lighting=True)
 ```
