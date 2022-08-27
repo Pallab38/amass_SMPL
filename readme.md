@@ -18,6 +18,8 @@ import trimesh
 import pyrender
 ###  Load SMPL Model    ### 
 smpl = SMPL(model_path= <path to Gender.pkl file>, gender="MALE")
+## 1.vertices, faces can be read directly using the .npy files
+## 2. Using smpl with pose to get vertices and faces
 my_mesh = trimesh.Trimesh(vertices, faces, vertex_colors)
 scene = pyrender.Scene()
 mesh = pyrender.Mesh.from_trimesh(my_mesh)
