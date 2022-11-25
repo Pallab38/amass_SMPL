@@ -14,4 +14,4 @@
 python pyrender_singleCam.py --frames 0 50
 ```
 # Result 
-![overlaySmpl_gtImage](OverlaySmpl/000000.png)
+![overlaySmpl_gtImage](000000.png)
