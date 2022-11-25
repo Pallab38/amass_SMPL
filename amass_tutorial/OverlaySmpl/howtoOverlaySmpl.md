@@ -13,3 +13,5 @@
 ```
 python pyrender_singleCam.py --frames 0 50
 ```
+# Result 
+![overlaySmpl_gtImage](amass_SMPL/amass_tutorial/OverlaySmpl/000000.png)
