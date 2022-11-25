@@ -40,8 +40,7 @@ if __name__=="__main__":
                                           cx=K1[0,2], cy=K1[1,2])
     bg_color=[0.0, 0.0, 0.0, 0.0]
     ambient_light=[0.5, 0.5, 0.5]
-    material = pyrender.MetallicRoughnessMaterial(metallicFactor=0.0, roughnessFactor=0.0,
-                                                  alphaMode="OPAQUE")
+   
     for frame_num in frames:
         gt_img_fpath = join(image_dir,str(cam_num1), "%06d.jpg"%frame_num)
         mesh_fpath = join(mesh_dir,"%06d.obj"%frame_num)
@@ -51,10 +50,10 @@ if __name__=="__main__":
         mesh = trimesh.load(mesh_fpath)
         V, F = mesh.vertices, mesh.faces
         V = V@R.T + tvec1.T
-        vertex_colors = np.ones([V.shape[0],4])# * [.25, .25, .27, 0.24]  ###[.5, .5, .7, 0.4]
+        vertex_colors = np.ones([V.shape[0],4])
         mesh1 = trimesh.Trimesh(V,F,vertex_colors=vertex_colors, process=False)
         mesh1 = mesh1.apply_transform(rot)
-        my_mesh = pyrender.Mesh.from_trimesh(mesh1)##), material=material)
+        my_mesh = pyrender.Mesh.from_trimesh(mesh1)
         
         r = pyrender.OffscreenRenderer(1024, 1024)
         scene = pyrender.Scene(bg_color=bg_color, ambient_light=ambient_light)
@@ -74,28 +73,4 @@ if __name__=="__main__":
         fig.savefig(save_fpath, bbox_inches="tight", pad_inches=0)
         # plt.show()
         plt.close()
-        # plt.savefig(save_fpath)
-        # ax1 = fig.add_subplot(111)
-        # ax2 = fig.add_subplot(122)
-        # ax3 = fig.add_subplot(223)
-        # ax4 = fig.add_subplot(224)
-        # ax1.imshow(gt_img)
-        # ax2.imshow(img)
-        
-        # ax1.imshow(gt_img)
-        # ax1.imshow(img, alpha=0.850)
-        
-        # ax2.imshow(img)
-        # ax2.imshow(gt_img, alpha=0.75)
-        
-        # ax3.imshow(gt_img)
-        # ax3.imshow(img, alpha=0.75)
-        
-        # ax4.imshow(img)
-        # ax4.imshow(gt_img, alpha=0.75)
-        
-        # plt.imshow(gt_img)
-        # plt.imshow(img, alpha=0.75)
-        # plt.show()
-        # r.delete()
-        # exit()
+        r.delete()
