@@ -8,3 +8,8 @@
 1. Camera Data
 2. Meshes
 3. Images 
+
+# Run 
+```
+python pyrender_singleCam.py --frames 0 50
+```
