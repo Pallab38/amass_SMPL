@@ -15,3 +15,5 @@ python pyrender_singleCam.py --frames 0 50
 ```
 # Result 
 ![overlaySmpl_gtImage](000000.png)
+
+# Multi(Interpolated) Cameras
