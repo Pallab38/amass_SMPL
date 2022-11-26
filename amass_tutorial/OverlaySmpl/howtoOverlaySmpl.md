@@ -17,3 +17,9 @@ python pyrender_singleCam.py --frames 0 50
 ![overlaySmpl_gtImage](000000.png)
 
 # Multi(Interpolated) Cameras
+
+## Camera Parameters
+In camera class
+```
+self.pos = np.squeeze(-np.transpose(R) @ tvec)
+```
