@@ -32,7 +32,7 @@ self.pos = np.squeeze(-R @ tvec)
 |:--:|:--: |
 | <b>cam1_18_wrongCs_t+1_010 </b>  |  <b>cam1_18_wrongCs_t-1_010</b>   |
 
-### In camera class
+### In camera class, **right CS**
 ```
 self.pos = np.squeeze(-np.transpose(R) @ tvec)
 ```
