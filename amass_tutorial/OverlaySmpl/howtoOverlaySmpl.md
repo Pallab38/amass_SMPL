@@ -24,6 +24,10 @@ In camera class
 self.pos = np.squeeze(-np.transpose(R) @ tvec)
 ```
 
-| ![cam1_18_wrongCs_t+1_010.png](images_diffCamConf/cam1_18_wrongCs_t+1_010.png) | ![cam1_18_wrongCs_t_0_010.png](images_diffCamConf/cam1_18_wrongCs_t_0_010.png)| 
+| ![cam1_18_wrongCs_t_0_010.png](images_diffCamConf/cam1_18_wrongCs_t_0_010.png)| ![cam1_18_wrongCs_t-0_5_010.png](images_diffCamConf/cam1_18_wrongCs_t-0_5_010.png)   |
 |:--:|:--: |
-| <b>cam1_18_wrongCs_t+1_010.png</b>| <b> cam1_18_wrongCs_t_0_010.png</b>|
+| <b> cam1_18_wrongCs_t_0_010</b>|  <b>cam1_18_wrongCs_t-0_5_010.png</b>  |
+
+|![cam1_18_wrongCs_t+1_010.png](images_diffCamConf/cam1_18_wrongCs_t+1_010.png)|  ![cam1_18_wrongCs_t-1_010.png](images_diffCamConf/cam1_18_wrongCs_t-1_010.png)|
+|:--:|:--: |
+| <b>cam1_18_wrongCs_t+1_010 </b>  |  <b>cam1_18_wrongCs_t-1_010</b>   |
