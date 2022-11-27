@@ -19,7 +19,8 @@ python pyrender_singleCam.py --frames 0 50
 # Multi(Interpolated) Cameras
 
 ## Camera Parameters
-### In camera class, **Wrong Cs**
+### 1. Naive Rasterizer
+#### In camera class, **Wrong Cs**
 ```
 self.pos = np.squeeze(-R @ tvec)
 ```
