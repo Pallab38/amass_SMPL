@@ -19,9 +19,9 @@ python pyrender_singleCam.py --frames 0 50
 # Multi(Interpolated) Cameras
 
 ## Camera Parameters
-In camera class
+### In camera class, **Wrong Cs**
 ```
-self.pos = np.squeeze(-np.transpose(R) @ tvec)
+self.pos = np.squeeze(-R @ tvec)
 ```
 
 | ![cam1_18_wrongCs_t_0_010.png](images_diffCamConf/cam1_18_wrongCs_t_0_010.png)| ![cam1_18_wrongCs_t-0_5_010.png](images_diffCamConf/cam1_18_wrongCs_t-0_5_010.png)   |
@@ -31,3 +31,8 @@ self.pos = np.squeeze(-np.transpose(R) @ tvec)
 |![cam1_18_wrongCs_t+1_010.png](images_diffCamConf/cam1_18_wrongCs_t+1_010.png)|  ![cam1_18_wrongCs_t-1_010.png](images_diffCamConf/cam1_18_wrongCs_t-1_010.png)|
 |:--:|:--: |
 | <b>cam1_18_wrongCs_t+1_010 </b>  |  <b>cam1_18_wrongCs_t-1_010</b>   |
+
+### In camera class
+```
+self.pos = np.squeeze(-np.transpose(R) @ tvec)
+```
