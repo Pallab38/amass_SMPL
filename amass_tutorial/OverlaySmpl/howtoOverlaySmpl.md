@@ -41,4 +41,6 @@ self.pos = np.squeeze(-np.transpose(R) @ tvec)
 
 
 ### 2. Pyrender
-#### 2.1 **f_x & f_y**
+#### 2.1 (f_x, f_y)
+It **does not** do the zoom in and zoom out. It just make the shape of the mesh bigger or smaller.
+
