@@ -52,7 +52,7 @@ It **does not** do the zoom in and zoom out. It just make the shape of the mesh 
 |:--:|:--: |
 | <b>with original focal length (fx,fy) </b>  |  <b>Original focal length (fx,fy) increased by 50%</b>   |
 
-#### 2.2 Principal Points (cx, c_y)
+#### 2.2 Optical Center (cx, c_y)
 |![000000_fx.png](pyrender_diffConf/000000_fx.png)|  ![000000_cx150.png](pyrender_diffConf/000000_cx150.png)|
 |:--:|:--: |
-| <b>with original Principal Points (cx, cy) </b>  |  <b>Original Principal Points (cx, cy) increased by 50%</b>   |
+| <b>with original Optical Center (cx, cy) </b>  |  <b>Original Optical Center (cx, cy) increased by 50%</b>   |
