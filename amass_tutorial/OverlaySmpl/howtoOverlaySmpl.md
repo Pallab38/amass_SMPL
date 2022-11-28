@@ -37,3 +37,8 @@ self.pos = np.squeeze(-R @ tvec)
 ```
 self.pos = np.squeeze(-np.transpose(R) @ tvec)
 ```
+
+
+
+### 2. Pyrender
+#### 2.1 **f_x & f_y**
