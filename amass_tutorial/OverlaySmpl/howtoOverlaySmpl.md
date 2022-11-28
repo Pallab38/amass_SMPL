@@ -41,6 +41,11 @@ self.pos = np.squeeze(-np.transpose(R) @ tvec)
 
 
 ### 2. Pyrender
+Camera Set Up 
+```
+camera = pyrender.camera.IntrinsicsCamera(fx=K1[0,0],fy=K1[1,1],
+                                           cx=K1[0,2], cy=K1[1,2])
+```
 #### 2.1 (f_x, f_y)
 It **does not** do the zoom in and zoom out. It just make the shape of the mesh bigger or smaller.
 |![000000_fx.png](pyrender_diffConf/000000_fx.png)|  ![000000_fx150.png](pyrender_diffConf/000000_fx150.png)|
