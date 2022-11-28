@@ -46,8 +46,13 @@ Camera Set Up
 camera = pyrender.camera.IntrinsicsCamera(fx=K1[0,0],fy=K1[1,1],
                                            cx=K1[0,2], cy=K1[1,2])
 ```
-#### 2.1 (f_x, f_y)
+#### 2.1 Focal Length (f_x, f_y)
 It **does not** do the zoom in and zoom out. It just make the shape of the mesh bigger or smaller.
 |![000000_fx.png](pyrender_diffConf/000000_fx.png)|  ![000000_fx150.png](pyrender_diffConf/000000_fx150.png)|
 |:--:|:--: |
-| <b>with original fx </b>  |  <b>Original fx increased by 50%</b>   |
+| <b>with original focal length (fx,fy) </b>  |  <b>Original focal length (fx,fy) increased by 50%</b>   |
+
+#### 2.2 Principal Points (cx, c_y)
+|![000000_fx.png](pyrender_diffConf/000000_fx.png)|  ![000000_cx150.png](pyrender_diffConf/000000_cx150.png)|
+|:--:|:--: |
+| <b>with original Principal Points (cx, cy) </b>  |  <b>Original Principal Points (cx, cy) increased by 50%</b>   |
